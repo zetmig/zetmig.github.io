@@ -1,6 +1,6 @@
 ## Tech Notes
 
-### Markdown
+> Zettel on steriods.
 
 
 
